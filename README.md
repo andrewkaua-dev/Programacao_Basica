@@ -1,3 +1,2 @@
-# Hi 👋, I'm Andrew Kauã
 
-**Here are some exercises I did in C during college.**
+**Aqui tem alguns codigos que fiz durante minhas aulas de Programação Basica.**
